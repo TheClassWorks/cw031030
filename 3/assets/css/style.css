@@ -1,0 +1,20 @@
+@font-face {
+  font-family: arvand;
+  src: url(../fonts/Vazir-Thin.eot) format(eot);
+  src: url(../fonts/Vazir-Thin.ttf) format(ttf);
+  src: url(../fonts/Vazir-Thin.woff) format(woff);
+  src: url(../fonts/Vazir-Thin.woff2) format(woff2);
+}
+
+/* asterisk */
+* {
+  font-family: arvand;
+}
+
+.matn {
+ font-size: 25px;
+}
+
+#titr{
+  color: red;
+}
